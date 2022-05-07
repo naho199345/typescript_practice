@@ -69,7 +69,6 @@ interface Developer extends Person {
     languge: string;
 }
 
-
 let capt2: Developer = {
     languge: "ts",
     name: "승호",
