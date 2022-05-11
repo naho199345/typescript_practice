@@ -2,7 +2,7 @@
 // var str = "hello";
 
 // TS 문자열 선언
-let str: string = 'hello';
+let str2: string = 'hello';
 
 // TS 숫자
 let num: number = 10;
@@ -16,7 +16,7 @@ let items: number[] = [1, 2, 3];
 let address: [string, number] = ['gangnam', 100];
 
 // TS 객체
-let obj: object = {};
+let ob2: object = {};
 // let person: object = {
 //     name: 'capt',
 //     age: 100

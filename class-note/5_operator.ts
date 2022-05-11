@@ -5,7 +5,7 @@
 // logMessage(100);
 
 // 유니온 타입
-let seungho2: string | number | boolean;
+let seungho5: string | number | boolean;
 function logMessage(value: string | number) {
     if (typeof value === 'number') {
         value.toLocaleString();
