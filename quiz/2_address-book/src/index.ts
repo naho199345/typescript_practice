@@ -3,7 +3,6 @@ interface PhoneNumberDictionary {
     num: number;
   };
 }
-
 interface Contact {
   name: string;
   address: string;
